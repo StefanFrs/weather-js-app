@@ -22,12 +22,9 @@ main {
   color: white;
   z-index: 99;
   position: absolute;
-  width: 99%;
-  margin: 0px auto;
-  padding: 120px 0px;
-
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
+  width: 40%;
+  margin-left: 100px;
+  padding: 120px 0 60px 0;
 }
 
 .card {
