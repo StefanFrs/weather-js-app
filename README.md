@@ -1,6 +1,6 @@
 # weather-js-app
 
-USAGE
+USAGE:
 
 git clone <this-repo>
 
